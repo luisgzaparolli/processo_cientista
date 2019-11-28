@@ -27,4 +27,4 @@ Idealmente, queremos poder replicar sua análise a partir dos códigos enviados.
 
 ## Objetivo:
 
-Determinar se vai ou não chover amanhã.
+Construir um modelo preditivo para determinar se vai ou não chover amanhã. 
